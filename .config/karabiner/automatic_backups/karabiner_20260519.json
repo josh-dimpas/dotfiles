@@ -1,0 +1,9 @@
+{
+    "machine_specific": { "krbn-a0c5df84-d6f5-4e7b-b26f-af100412137a": { "external_editor_path": "/Applications/Visual Studio Code.app" } },
+    "profiles": [
+        {
+            "name": "Default profile",
+            "selected": true
+        }
+    ]
+}
